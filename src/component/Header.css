@@ -1,0 +1,29 @@
+body{
+    margin: auto;
+}
+ #header{
+     height: 60px;
+     background-color: #d1a292;
+ }
+
+#brand{
+    float: left;
+    margin-left: 5%;
+    font-size:30px;
+    color:white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.social{
+  float: right;
+    margin-left: 10%
+}
+
+.socialIcon{
+    height:50px;
+    width:50px
+}
+.btn{
+  
+    width:100px !important;
+}
